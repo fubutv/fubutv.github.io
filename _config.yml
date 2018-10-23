@@ -44,3 +44,21 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: false
+#       share: true
+#       related: true
+#       header:
+#         image: "/assets/images/1280px-Széchenyi_Chain_Bridge_in_Budapest_at_night.jpg"
+#         # overlay_color: "#000"
+#         # overlay_filter: "0.5"
+#         # overlay_image: "/assets/images/1280px-Széchenyi_Chain_Bridge_in_Budapest_at_night.jpg"
