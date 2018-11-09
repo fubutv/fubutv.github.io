@@ -1,32 +1,144 @@
 ---
-title: "Missing the World Cup?"
+title: "Oops! This is not fuboTV.<br /><br />Looking for fuboTV?"
 layout: splash
 author_profile: true
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "/assets/images/1280px-Széchenyi_Chain_Bridge_in_Budapest_at_night.jpg"
-  cta_label: "START WATCHING TODAY FOR FREE"
-  cta_url: "https://www.amazon.com/NEWEST-Amplified-Digital-Antenna-65-80/dp/B07B1VKXJD/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=YRX24KV69J9TE8QW35WR&linkCode=ll1&tag=fubutv0e-20&linkId=3d190b0d8b0fa646654a545190ddca16"
+  overlay_image: "/assets/images/arrow-blur-candlelights-783738.jpg"
+  cta_label: "HEAD OVER TO FUBO.TV"
+  cta_url: "https://www.fubo.tv/welcome?irad=366904&irmp=1327062"
 ---
 
-## How did fubuTV Free and HD start?
+## It's okay, we all make typos.
 
-I felt left out when my friends were watching the World Cup at home.
+[HEAD OVER TO FUBO.TV](https://www.fubo.tv/welcome?irad=366904&irmp=1327062){: .btn .btn--warning .btn--x-large}
 
-A good friend recommended an indoor HD antenna.
+This website is not fuboTV.
 
-I was amazed. After a one time $30 purchase, I was watching FOX, NBC, CBS, ABC, and Univision in HD for free.
+But we'd love to tell you about fuboTV.
 
-It opened up a world of live sports, news, and entertainment that I'm still enjoying today.
+According to their website, "fuboTV is a sports-centric Internet TV streaming service with the world's most popular live sports and entertainment content. The service offers access to national and regional networks via TVs, tablets, mobile devices, and desktop computers."
 
-If you're curious if an indoor HD antenna is right for you, [TV Signal Locator](https://www.tvfool.com/?option=com_wrapper&Itemid=29) can tell you what channels you can expect to get.
+In our opinion, they're the best around for sports fans.
 
-## See some channels you like?
+[HEAD OVER TO FUBO.TV](https://www.fubo.tv/welcome?irad=366904&irmp=1327062){: .btn .btn--warning .btn--x-large}
 
-Great! [Start watching today](https://www.amazon.com/NEWEST-Amplified-Digital-Antenna-65-80/dp/B07B1VKXJD/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=YRX24KV69J9TE8QW35WR&linkCode=ll1&tag=fubutv0e-20&linkId=3d190b0d8b0fa646654a545190ddca16) with an HD Amplified Antenna by U Must Have.
+As a first step, we'd recommend getting a base package.
 
-Before the World Cup Ends!  
+One option is fubo at $39.99 for your first month, $44.99 per month thereafter. It comes with these channels:
 
-[START WATCHING TODAY FOR FREE](https://www.amazon.com/NEWEST-Amplified-Digital-Antenna-65-80/dp/B07B1VKXJD/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=YRX24KV69J9TE8QW35WR&linkCode=ll1&tag=fubutv0e-20&linkId=3d190b0d8b0fa646654a545190ddca16){: .btn .btn--warning .btn--x-large}
+* A&E
+* AMC
+* BBC America
+* BeIN Sports (11 channels)
+* Big Ten Network (4 channels)
+* Bravo
+* Cartoon Network
+* CBS
+* CBS Sports Network
+* Cheddar
+* CNBC
+* CNBC World
+* CNN
+* Cozi TV
+* E!
+* Eleven Sports
+* El Rey Network
+* FS1 (also available in 4K)
+* FS2
+* Food Network
+* Fox
+* Fox Business
+* Fox Deportes
+* Fox News
+* FuboTV Network
+* Fuse
+* Fusion
+* FX
+* FXM
+* FXX
+* FYI
+* Galavision
+* Hallmark Channel
+* Hallmark Movies & Mysteries
+* HGTV
+* History Channel
+* HLN
+* IFC
+* Lifetime
+* Lifetime Movies
+* Local Now
+* MSNBC
+* National Geographic
+* Nat Geo Wild
+* NBA TV
+* NBC
+* NBC Golf
+* NBCSN
+* NBC Universo
+* NFL Network
+* Olympic Channel
+* Oxygen
+* Pac 12 Networks
+* Pop
+* Smithsonian Channel
+* Sundance TV
+* Syfy
+* Telemundo
+* TBS
+* TNT
+* Travel Channel
+* TruTV
+* TCM
+* Universal Kids
+* Unimas
+* Univision
+* Univision TDN
+* USA
+* Viceland
+* The Weather Channel
+* We TV
+
+[HEAD OVER TO FUBO.TV](https://www.fubo.tv/welcome?irad=366904&irmp=1327062){: .btn .btn--warning .btn--x-large}
+
+Another option is fubo Latino at $17.99 per month. It comes with these channels:
+
+* BabyTV Hd
+* BeIN Sports (2 channels)
+* Cine Sony
+* CNN en Español
+* Fox Desportes
+* Fox Life
+* El Gourmet
+* Galavisión
+* Gol TV Spanish
+* Más Chíc
+* Nat Geo Mundo
+* TyC Sports
+* Unimás
+* Univision
+* Univision TDN
+
+[HEAD OVER TO FUBO.TV](https://www.fubo.tv/welcome?irad=366904&irmp=1327062){: .btn .btn--warning .btn--x-large}
+
+Then we'd highly recommend their Sports Plus add-on at an additional $8.99 per month. That includes these channels:
+
+* NFL RedZone
+* Stadium (4 channels)
+* SI TV
+* Gol TV English
+* Gol TV Spanish
+* Pac 12 Network (5 channels)
+* Fox College Sports (3 channels)
+* VSiN)
+* FNTSY Sports Network
+* Fight Network
+* TyC Sports
+
+NFL RedZone and college sports!
+
+Give them a shot!
+
+[HEAD OVER TO FUBO.TV](https://www.fubo.tv/welcome?irad=366904&irmp=1327062){: .btn .btn--warning .btn--x-large}
