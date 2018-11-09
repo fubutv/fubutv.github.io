@@ -23,8 +23,6 @@ According to their website, "fuboTV is a sports-centric Internet TV streaming se
 
 In our opinion, they're the best around for sports fans.
 
-[HEAD OVER TO FUBO.TV](https://www.fubo.tv/welcome?irad=366904&irmp=1327062){: .btn .btn--warning .btn--x-large}
-
 As a first step, we'd recommend getting a base package.
 
 One option is fubo at $39.99 for your first month, $44.99 per month thereafter. It comes with these channels:
@@ -101,8 +99,6 @@ One option is fubo at $39.99 for your first month, $44.99 per month thereafter. 
 * The Weather Channel
 * We TV
 
-[HEAD OVER TO FUBO.TV](https://www.fubo.tv/welcome?irad=366904&irmp=1327062){: .btn .btn--warning .btn--x-large}
-
 Another option is fubo Latino at $17.99 per month. It comes with these channels:
 
 * BabyTV Hd
@@ -120,8 +116,6 @@ Another option is fubo Latino at $17.99 per month. It comes with these channels:
 * Unimás
 * Univision
 * Univision TDN
-
-[HEAD OVER TO FUBO.TV](https://www.fubo.tv/welcome?irad=366904&irmp=1327062){: .btn .btn--warning .btn--x-large}
 
 Then we'd highly recommend their Sports Plus add-on at an additional $8.99 per month. That includes these channels:
 
