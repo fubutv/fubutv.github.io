@@ -1,5 +1,5 @@
 ---
-title: "Oops! This is not fuboTV.<br /><br />Looking for fuboTV?"
+title: "Oops! This is not fuboTV. <br /><br />Looking for fuboTV?"
 layout: splash
 author_profile: true
 
